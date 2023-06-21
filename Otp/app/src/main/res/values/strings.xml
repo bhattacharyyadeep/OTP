@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Otp</string>
+        <string name="hint_email">hint_email</string>
+        <string name="hint_password" />
+        <string name="btn_login">btn_login</string>
+        <string name="btn_forgot_password">btn_forgot_password</string>
+        <string name="btn_link_to_register">btn_link_to_register</string>
+    </resources>
